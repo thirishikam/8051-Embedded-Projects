@@ -28,3 +28,6 @@ The program turns ON one LED at a time while turning OFF the previous LED, creat
 
 ![Circuit](running%20led.png)
 
+### Output
+
+![Output](running%20led%20output.png)
