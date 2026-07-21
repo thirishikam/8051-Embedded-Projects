@@ -1,4 +1,3 @@
-
 # LCD String Scrolling (Right to Left) using 8051
 
 ## Description
@@ -19,20 +18,20 @@ This project demonstrates right-to-left text scrolling on a 16×2 LCD using the 
 
 ## Circuit Diagram
 
-![Circuit](circuit.png)
+![Circuit](lcd_string_scrolling_circuit.png)
 
 ## Output
 
-![Output](output.png)
+![Output](lcd_string_scrolling_output.png)
 
 ## Source Code
 
-- `lcd_string_scroll.c`
+- `03_lcd_string_scrolling.c`
 
 ## Working
 
 - Initializes the LCD.
-- Displays a message.
+- Displays the message.
 - Scrolls the message from right to left.
 - Repeats continuously.
 
