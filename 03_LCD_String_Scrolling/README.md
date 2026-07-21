@@ -26,7 +26,7 @@ This project demonstrates right-to-left text scrolling on a 16×2 LCD using the 
 
 ## Source Code
 
-- `03_lcd_string_scrolling.c`
+- `lcd_string_scrolling.c`
 
 ## Working
 
